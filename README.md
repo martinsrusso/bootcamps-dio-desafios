@@ -1,2 +1,2 @@
-# bootcamps-dio-localizaLabs-desafios
+# bootcamps-dio-desafios
 LocalizaLabs .NET Developer
